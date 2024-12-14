@@ -31,7 +31,7 @@ space missions, and support the sustainable use of Earth’s orbits.
 1. **Clone the Repository**
    ```bash
    git clone
-   https://github.com/your-repo/orrery-web-app.git 
+   https://github.com/Stan-breaks/spaceapp.git 
    cd orbital 
    ```
 
