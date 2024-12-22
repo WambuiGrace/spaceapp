@@ -55,10 +55,8 @@ objects by zooming in and out. Select an object to view more information.
 - **Create more visual appealing Bodies**: Enhancing the graphics of the web
   app; making the celestial bodies more visually appealing.
 
-## **Contributing** We welcome contributions from the community! Please fork
-
-this repository, create a feature branch, and submit a pull request with your
-changes.
+## **Contributing** We welcome contributions from the community! Please fork this repository, 
+create a feature branch, and submit a pull request with your changes.
 
 ## **License** This project is licensed under the MIT License. See the
 
