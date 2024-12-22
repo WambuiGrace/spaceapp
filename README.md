@@ -32,7 +32,7 @@ space missions, and support the sustainable use of Earth’s orbits.
    ```bash
    git clone
    https://github.com/Stan-breaks/spaceapp.git 
-   cd orbital 
+   cd spaceapp
    ```
 
 3. **Install Dependencies** Make sure you have Node.js installed. Then, run the
